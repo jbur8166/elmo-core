@@ -5,5 +5,8 @@ public enum Race {
 	Black,
 	Hispanic,
 	White,
+	Dirty Indian,
+	Blasian,
+	Cheap Jew,
 	Other
 }
